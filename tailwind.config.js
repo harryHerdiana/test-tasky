@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       colors: {
         primaryColor: '#21a8c7',
+        disable:'#F2F2F2',
+        disableText: '#ADB7B8',
+        secondaryText:'#768789'
       },
       keyframes: {
         curveMove1: {
